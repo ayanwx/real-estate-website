@@ -4,7 +4,8 @@ export default {
     content: [],
     theme: {
         fontFamily: {
-            heading: "Outfit",
+            heading: "Prompt",
+            text: "Outfit",
             mono: ["Ubuntu Mono"],
         },
     },

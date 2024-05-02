@@ -9,6 +9,8 @@ export default defineNuxtConfig({
                 families: {
                     Outfit: true,
                     "Ubuntu+Mono": true,
+                    Jost: true,
+                    Prompt: true,
                 },
             },
         ],
